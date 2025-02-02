@@ -4,12 +4,22 @@
   "description": "Run and debug C++ code inline within VS Code.",
   "publisher": "codegyan",
   "author": "Prathmesh Yelne",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Programming Languages"
+  ],
+  "keywords": [
+    "QuickCPP",
+    "QuickCPP Extension",
+    "vs extension",
+    "Fast Extension",
+    "coding",
+    "Codegyan",
+    "Prathmesh Yelne"
   ],
   "activationEvents": [
     "onLanguage:cpp"

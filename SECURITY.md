@@ -12,7 +12,7 @@ We ask that you do not publicly disclose the vulnerability until we have had a c
 
 The Quick C++ extension follows a continuous improvement cycle, with the latest stable version receiving the most attention for security patches. We recommend users update to the latest release to benefit from ongoing security improvements.
 
-- Current stable version: 0.0.1
+- Current stable version: 0.0.2
 - Older versions (if any) may no longer receive security updates.
 
 ## Security Best Practices

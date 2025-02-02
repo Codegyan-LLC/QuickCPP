@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v0.0.1 (2025-02-02)
 
 - Initial release
+
+## v0.0.1 (2025-02-02)
+
+- Minor fix
